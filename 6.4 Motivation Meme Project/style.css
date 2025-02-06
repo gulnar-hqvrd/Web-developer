@@ -1,0 +1,21 @@
+body{
+    background: black;
+    color: white;
+}
+
+.poster{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.poster > img{
+    width: 100%;
+    border: 5px solid white;
+}
+.poster h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+
+}
+
